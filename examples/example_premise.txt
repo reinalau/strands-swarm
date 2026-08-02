@@ -1,0 +1,4 @@
+Cooking roguelike set in a cursed castle. The player is a chef trapped
+in a castle that reconfigures itself every night. They must cook dishes
+using ingredients that only appear in specific rooms, in order to
+weaken (or feed) the curse that keeps them imprisoned.

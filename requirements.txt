@@ -1,0 +1,6 @@
+# dependencies
+strands-agents[ollama]
+strands-agents[gemini]
+strands-agents-evals
+python-dotenv
+pytest
