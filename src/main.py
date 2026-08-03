@@ -92,12 +92,6 @@ def main() -> None:
     swarm = build_swarm()
     result = swarm(premise)
 
-    import json
-    print("DEBUG results keys:", list(result.results.keys()))
-    for k, v in result.results.items():
-        print(f"--- {k} ---")
-        print(type(v), str(v)[:300])
-
     print_summary(result)
     logger.info("Swarm run finished with status: %s", result.status)
 
