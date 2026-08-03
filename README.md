@@ -168,6 +168,8 @@ No es un agente, es una función Python que formatea lo que el swarm ya generó.
 
 ### 1. Requisitos Previos e Instalación
 
+El proyecto está en python y se requiere minimo **Python 3.12 o superior** (probado con 3.14.2)
+
 1. Clonar el repositorio:
 
 ```bash
