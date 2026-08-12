@@ -204,6 +204,7 @@ La capa gratuita se puede utilizar con el modelo gemini-2.5-flash
 4. Probar que el modelo responde:
 
 ```bash
+   docker start ollama
    docker exec -it ollama ollama run gemma4:e2b-it-qat
 ```
 Interactuar con el modelo diciendo al menos "hola" y verificar si contesta. La manera de salir es presionar Ctrl + d o /bye
