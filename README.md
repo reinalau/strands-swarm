@@ -402,6 +402,7 @@ VERDICT: NO FRICTION DETECTED. The updated numerical balance creates an interest
 - [Strands Agents — Hooks y lifecycle events](https://strandsagents.com/latest/user-guide/concepts/hooks/)
 - [Strands Agents — Multi-agent patterns](https://strandsagents.com/latest/user-guide/concepts/multi-agent/)
 - [Swarm Architecture](https://strandsagents.com/latest/advanced-guide/swarm-architecture/)
+- [Artículo relacionado](https://builder.aws.com/content/3H6Gn1rh6Ke5Rrxu1NNL5btj1yJ/swarm-en-strands-orquestacion-autonoma-mediante-handoffs-emergentes)
 
 
 ## Licencia
